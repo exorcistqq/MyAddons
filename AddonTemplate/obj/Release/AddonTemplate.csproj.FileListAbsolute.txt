@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\AddonTemplate.exe.config
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\AddonTemplate.exe
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\AddonTemplate.pdb
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\EloBuddy.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\EloBuddy.SDK.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\SharpDX.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\obj\Release\AddonTemplate.exe
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\obj\Release\AddonTemplate.pdb
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\EloBuddy.Sandbox.dll
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\obj\Release\AddonTemplate.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\AddonTemplate\AddonTemplate\bin\Release\SharpDX.XInput.dll
